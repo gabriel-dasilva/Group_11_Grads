@@ -1,6 +1,6 @@
-Language: JavaScript
+### Language: JavaScript
 
-Styling rules:
+## Styling rules:
     - Use this module to keep formatting: https://standardjs.com/#javascript-style-guide-linter-and-formatter
     - The following styling rules conflict with the formatter but must be in place; make the necessary changes to the formatter:    
         - Indentation must be 4 spaces 
@@ -12,7 +12,7 @@ Styling rules:
             - Silence this rule from the Standard JS formatter that always puts a space.
         - Use arrow functions
 
-Code Quality Rules:
+## Code Quality Rules:
     - All names should be descriptive
     - Use appropriate data structures
         - e.g. Don't store values in arrays, store them in objects
