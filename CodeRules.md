@@ -1,7 +1,7 @@
 ### Language: JavaScript
 
 ## Styling rules:
-    - Use this module to keep formatting: https://standardjs.com/#javascript-style-guide-linter-and-formatter
+    - Use this module to keep formatting: [JS Standard Formatter](https://standardjs.com/#javascript-style-guide-linter-and-formatter)
     - The following styling rules conflict with the formatter but must be in place; make the necessary changes to the formatter:    
         - Indentation must be 4 spaces 
             - Silence the 2 spaces indentation rule from the Standard JS formatter.
