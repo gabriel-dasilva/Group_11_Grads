@@ -92,7 +92,7 @@
    ```
     const numbers = [1, 2, 3, 4];
     const evenNumbers = numbers.filter((number) => number % 2 === 0);
-    ```
+   ```
   - Imperative grouping:
   ``` 
     const numbers = [1, 2, 3, 4];
@@ -103,7 +103,7 @@
   ```
   - Declarative grouping:
   ``` 
-  const numbers = [1, 2, 3, 4];
-  const numbersDoubled = numbers.map((number) => number * 2);
+    const numbers = [1, 2, 3, 4];
+    const numbersDoubled = numbers.map((number) => number * 2);
   ```
 
