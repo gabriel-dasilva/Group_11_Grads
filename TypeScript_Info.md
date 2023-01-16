@@ -103,7 +103,7 @@
   ```
   - Declarative grouping:
   ``` 
-  const numbers = [1, 2, 3, 4];
-  const numbersDoubled = numbers.map((number) => number * 2);
+    const numbers = [1, 2, 3, 4];
+    const numbersDoubled = numbers.map((number) => number * 2);
   ```
 
