@@ -64,7 +64,7 @@
 ## Pattern matching
   ### No support need library
 
-## Imperative and declarative grouping and filtering:
+## Imperative and declarative summing, grouping, and filtering:
   - Imperative summing:
     ``` 
       a = b+c; 
